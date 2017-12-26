@@ -1,2 +1,2 @@
 # image-processing
-Deskew and crop technical drawing scans
+Deskew and crop technical drawing scans using Hough transform
